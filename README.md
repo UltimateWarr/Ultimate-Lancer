@@ -8,7 +8,7 @@
 ## Complete document with videos: [HERE](https://docs.google.com/document/d/1c9Yp90FuiUpe3_kU324tXhwLZah7lfUshChifz17XMA/)
 
 
-A completely custom & original skill-emulation module designed for competitive lancers
+A completely custom & original skill-emulation module designed for competitive lancers.
 
 ## Features:
 * Highly aggressive & polished skill-emulation engine offering unparalleled smoothness and the lowest skill delays attainable: far surpassing NGSP, PR, free SP and Bern script in speed, responsiveness and fluidity.
